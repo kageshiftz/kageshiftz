@@ -11,4 +11,4 @@ Fun Facts:
 - Hobbies: anime, gaming, coding.
 
 ### 🐍 Python
-- [Guess A Number]([your-repository-link](https://github.com/kageshiftz/python-guess-a-number.git))
+- [Guess A Number]((https://github.com/kageshiftz/python-guess-a-number.git))
