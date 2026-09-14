@@ -9,3 +9,6 @@ I'm only at first years at Volcanary school so i don't as much experiecene.
 Fun Facts:
 - I get along with people.
 - Hobbies: anime, gaming, coding.
+
+### 🐍 Python
+- [Guess A Number]([your-repository-link](https://github.com/kageshiftz/python-guess-a-number.git))
