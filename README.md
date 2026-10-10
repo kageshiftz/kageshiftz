@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm KageDevs, software developper based in Finland.
+I'm KageDevs, Programmer based in Finland.
 
 16 years old kid with passion. I make and build whatever i can imagine.
 
